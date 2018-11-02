@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5042" started-at="2018-11-01T02:30:02Z" finished-at="2018-11-01T02:30:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5042" started-at="2018-11-01T02:30:02Z" finished-at="2018-11-01T02:30:07Z">
+      <class name="com.qa.restassured.GetData">
+        <test-method status="PASS" signature="testResponseCode()[pri:1, instance:com.qa.restassured.GetData@2d928643]" name="testResponseCode" duration-ms="2860" started-at="2018-11-01T02:30:02Z" finished-at="2018-11-01T02:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCode -->
+        <test-method status="PASS" signature="testBody()[pri:2, instance:com.qa.restassured.GetData@2d928643]" name="testBody" duration-ms="1292" started-at="2018-11-01T02:30:05Z" finished-at="2018-11-01T02:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBody -->
+        <test-method status="PASS" signature="testBodyText()[pri:3, instance:com.qa.restassured.GetData@2d928643]" name="testBodyText" duration-ms="853" started-at="2018-11-01T02:30:06Z" finished-at="2018-11-01T02:30:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBodyText -->
+      </class> <!-- com.qa.restassured.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
