@@ -33,6 +33,7 @@ public class GetAPITest extends TestBase{
 		serviceUrl = prop.getProperty("URL");
 		apiUrl = prop.getProperty("serviceURL");
 		//https://reqres.in/api/users
+		// Test
 		
 		url = serviceUrl + apiUrl;
 		
